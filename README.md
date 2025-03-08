@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Run the Application
 
-python start-1.py
+streamlit run RAG_Model.py
 
 Usage
 
